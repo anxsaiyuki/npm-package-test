@@ -1,11 +1,12 @@
 {
   "name": "package-test-anxsaiyuki",
   "version": "1.0.0",
-  "description": "",
+  "description": "first test npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "anxsaiyuki",
+  "license": "ISC",
+  "repository": "anxsaiyuki/npm-package-test"
 }
